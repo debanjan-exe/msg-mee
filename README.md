@@ -1,4 +1,4 @@
-# msg.me 🕊 chat app
+# msg.mee 🕊 chat app
 
 ## ![image](https://user-images.githubusercontent.com/70289645/156898036-55857000-e765-44f0-badd-e18545c88e98.png)
 
