@@ -1,26 +1,8 @@
-# msg.mee 🕊 chat app
+# msg.mee chat app
 
-## ![image](https://user-images.githubusercontent.com/70289645/156898036-55857000-e765-44f0-badd-e18545c88e98.png)
-
-## ![image](https://user-images.githubusercontent.com/70289645/156898037-5da3e3b2-8a6c-4e39-9b92-d69d5e6957ca.png)
-
-## ![image](https://user-images.githubusercontent.com/70289645/156898052-978124d2-7e31-4a9d-8b36-9fc094eed0c9.png)
-
-## Search users by email or name 🔍
-
-## ![image](https://user-images.githubusercontent.com/70289645/156898150-a0dba375-ce94-4958-92ca-d5f7d89459eb.png)
-
-## Chat one to one 👨🏿‍🤝‍👨🏿 or group chat 👨‍👩‍👧‍👦🤙🏻
-
-## ![image](https://user-images.githubusercontent.com/70289645/156898071-f7c04271-4836-441a-a1df-168a274a504a.png)
-
-## ![image](https://user-images.githubusercontent.com/70289645/156898114-fceeadad-1ae7-409b-bbdd-bc0404d7660f.png)
-
-## Create or Update group chat 👨‍👩‍👧‍👦
-
-## ![image](https://user-images.githubusercontent.com/70289645/156898117-d753c23c-1d7c-4b21-9731-e25fc9c16d7b.png)
-
-![image](https://user-images.githubusercontent.com/70289645/156898119-4e0a589a-ad95-4673-a9b9-4f2fb33f100c.png)
+## ![image](https://github.com/debanjan-exe/msg-mee/blob/master/mockups/msg-mee-mockup-auth.jpg?raw=true)
+## ![image](https://github.com/debanjan-exe/msg-mee/blob/master/mockups/msg-mee-mockup-msg.jpg?raw=true)
+## ![image](https://github.com/debanjan-exe/msg-mee/blob/master/mockups/msg-mee-mockup-grp.jpg?raw=true)
 
 # Getting Started with Create React App
 
